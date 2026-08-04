@@ -18,4 +18,4 @@ Instant Trash is a simple, highly efficient inventory management mod for Minecra
 **it must be installed on both the Client and the Server** to work in multiplayer environments.
 
 # Showcases
-Will be added later...
+[https://youtu.be/ZVo692TgeMw](https://youtu.be/ZVo692TgeMw)
